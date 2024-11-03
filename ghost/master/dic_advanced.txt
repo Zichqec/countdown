@@ -1,0 +1,36 @@
+＊OnWindowStateRestore
+：\1\s[-1]\0\s[10]
+
+＊OnSurfaceRestore
+：\1\s[-1]\0\s[10]
+
+
+＊OnInstallBegin
+：Installing...
+
+＊OnInstallComplete
+：Installation complete.
+
+＊OnInstallFailure
+：Installation failed.
+
+＊OnInstallRefuse
+：Cannot install this.
+
+
+＊OnSNTPBegin
+：Checking the clock...
+
+＃I'm..... unsure if this will work? Doesn't it need to run the command?
+＊OnSNTPCompare
+：Comparing clock times...
+
+＊OnSNTPCorrect
+：Clock has been corrected.
+
+＊OnSNTPFailure
+：Could not correct the clock.
+
+
+＊OnKeyPress
+＞OnCountdown

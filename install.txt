@@ -1,0 +1,5 @@
+
+charset, Shift_JIS
+type,ghost
+name,Countdown
+directory,countdown_zi

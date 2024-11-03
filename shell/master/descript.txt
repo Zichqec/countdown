@@ -1,0 +1,6 @@
+type,shell
+name,Seven segment
+
+craftman,Zichqec
+craftmanw,Zichqec
+craftmanurl,https://ukagaka.zichqec.com/

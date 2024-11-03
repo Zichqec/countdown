@@ -1,0 +1,15 @@
+charset,Shift_JIS
+
+craftman,Zichqec
+craftmanw,Zichqec
+craftmanurl,https://ukagaka.zichqec.com/
+
+name,Countdown
+type,ghost
+
+sakura.name,Digits
+kero.name,Time
+
+shiori,satori.dll
+
+kero.seriko.defaultsurface,11

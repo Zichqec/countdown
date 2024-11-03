@@ -1,0 +1,22 @@
+Network update
+
+
+＃ほぼ必須、ないとユーザーさんに不親切
+＃Ready/Complete/Failure時の（Ｒ０）リストは以下
+＃none/changed/timeout/md5 miss/404,403等ステータスコード
+＃SSPでは上記に加えfileio/readonly
+
+＠homeurl
+http://更新元url
+
+＊OnUpdateBegin
+：Starting network update...
+
+＊OnUpdateReady
+：Update files found.
+
+＊OnUpdateComplete
+：Update complete.
+
+＊OnUpdateFailure
+：Update failed: （Ｒ０）.
