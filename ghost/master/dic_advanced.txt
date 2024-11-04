@@ -1,8 +1,8 @@
 ÅñOnWindowStateRestore
-ÅF\1\s[-1]\0\s[10]
+\1\s[-1]\0\s[10]
 
 ÅñOnSurfaceRestore
-ÅF\1\s[-1]\0\s[10]
+\1\s[-1]\0\s[10]
 
 
 ÅñOnInstallBegin

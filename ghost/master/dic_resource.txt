@@ -1,8 +1,2 @@
 ＠username
 （ユーザ名）
-
-＊sakura.portalsites
-ゴーストキット (Ghost Kit)
-http://sgmh.sakura.ne.jp/tcg/kit/
-http://sgmh.sakura.ne.jp/tcg/kit/banner.png
-
