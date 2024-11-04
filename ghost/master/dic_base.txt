@@ -1,15 +1,18 @@
 
 
 ＊OnFirstBoot
-：\1\s[-1]\0\s[10]
+：\1\s[-1]\0\s[11]
 
 ＊OnBoot
-：\1\s[-1]\0\s[10]
+：\1\s[-1]\0\s[11]
 
 ＊OnClose
 ＞OnCountdown
 
 ＊OnGhostChanged
+＞OnBoot
+
+＊OnShellChanged
 ＞OnBoot
 
 ＊OnGhostChanging
@@ -28,4 +31,4 @@
 ＞OnCountdown
 
 ＊OnCountdown
-：\t\0\s[10]\_w[1000]\s[9]\_w[1000]\s[8]\_w[1000]\s[7]\_w[1000]\s[6]\_w[1000]\s[5]\_w[1000]\s[4]\_w[1000]\s[3]\_w[1000]\s[2]\_w[1000]\s[1]\_w[1000]\s[0]\_w[1000]\![vanishbymyself]\_w[1000]\-
+：\t\0\s[11]\_w[1000]\s[9]\_w[1000]\s[8]\_w[1000]\s[7]\_w[1000]\s[6]\_w[1000]\s[5]\_w[1000]\s[4]\_w[1000]\s[3]\_w[1000]\s[2]\_w[1000]\s[1]\_w[1000]\s[0]\_w[1000]\![vanishbymyself]\_w[1000]\-

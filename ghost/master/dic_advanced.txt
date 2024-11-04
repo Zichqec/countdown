@@ -1,8 +1,8 @@
 –OnWindowStateRestore
-\1\s[-1]\0\s[10]
+\1\s[-1]\0\s[11]
 
 –OnSurfaceRestore
-\1\s[-1]\0\s[10]
+\1\s[-1]\0\s[11]
 
 
 –OnInstallBegin

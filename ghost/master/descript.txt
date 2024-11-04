@@ -14,5 +14,3 @@ sakura.name,Countdown
 kero.name,Digits
 
 shiori,satori.dll
-
-kero.seriko.defaultsurface,11
