@@ -7,7 +7,7 @@ Network update
 ＃SSPでは上記に加えfileio/readonly
 
 ＠homeurl
-http://更新元url
+https://raw.githubusercontent.com/Zichqec/countdown/main/
 
 ＊OnUpdateBegin
 ：Starting network update...
